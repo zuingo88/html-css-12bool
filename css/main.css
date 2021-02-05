@@ -1,0 +1,18 @@
+[class*="col-"]  {
+  height: 20vh;
+  background-color: #ffc0cb;
+  border: solid 1px black;
+
+  padding: 5px;
+  text-align: center;
+  line-height: 20vh;
+  vertical-align: middle;
+}
+
+.nested {
+  height: 100%;
+  background-color: #f07f80;
+  border: solid 1px white;
+  padding-top: 7vh;
+  line-height: normal;
+}
